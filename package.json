@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@synthetixio/synpress": "3.7.2-beta.7",
+    "cypress": "12.17.3"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  }
+}
